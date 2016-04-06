@@ -1,0 +1,20 @@
+.caja{
+	width:25%;
+	height: 100px;
+	display: block;
+	float: left;
+}
+.contenedor{
+	border: 1px solid grey;
+}
+.uno{
+	background: yellow;
+}
+.dos{
+	background: blue;
+}
+.tres{
+	background: red;
+}
+
+
